@@ -138,7 +138,7 @@ function updateCountDownDisplay (incrementalTime) {
 
 // count variable is increment very 1 second
 // this value is then converted into sec/min/hours/days
-let incrementalTime = (86400 * 8);
+let incrementalTime = (86400 * 14);
 
 /**
  * counter_1 and counter_2 functions both call each other
